@@ -1,4 +1,5 @@
 const { expect } = require('chai');
+const { describe, it } = require('mocha');
 
 describe('Testing numbers', () => {
   it('1 is equal to 1', () => {
